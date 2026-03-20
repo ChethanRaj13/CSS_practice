@@ -1,0 +1,20 @@
+#nav {
+  background-color: black;
+  color: white;
+  padding-top: 10px ;
+  padding-bottom: 10px ;
+}
+
+#logo {
+    color: orange;
+}
+
+button {
+    background-color: orange;
+    color: white;
+}
+
+a {
+    margin-right: 15%;
+}
+
