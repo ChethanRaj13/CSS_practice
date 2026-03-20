@@ -1,0 +1,32 @@
+.box {
+  height: 100px;
+  width: 100px;
+  border: 5px, solid, black;
+  background-color: rgba(255, 0, 0, 0.5);
+  display: inline-block;
+  margin-right: 25%;
+}
+
+#nav {
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#logo {
+  color: orange;
+}
+
+button {
+  background-color: orange;
+  color: white;
+}
+
+a {
+  margin-right: 15%;
+}
+
+main {
+  margin-top: 40px;
+}
