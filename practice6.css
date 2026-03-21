@@ -1,0 +1,35 @@
+#nav {
+    background-color: black;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#logo {
+    color: orange;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+}
+
+#inner {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+#outter {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -5,4 +5,5 @@ div {
     background-image: url("owl.jpg");
     background-size: cover;
     position: fixed;
+    right: 0px
 }
